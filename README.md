@@ -46,3 +46,7 @@ The notebook contains the code and steps required to reproduce the analysis.
 Project Outcome
 
 This project demonstrates how AI-powered embeddings and NLP techniques can be applied to real-world customer feedback to identify meaningful patterns within unstructured text.
+
+
+<img width="770" height="595" alt="clothing_review_example_output" src="https://github.com/user-attachments/assets/73c07a18-dbbb-4bc5-8bf4-db69baa07a87" />
+
